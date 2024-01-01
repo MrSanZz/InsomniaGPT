@@ -3,6 +3,7 @@
 <br>
 <details open>
   <summary><strong>Here is the text (jailbreak)</strong></summary><br>
-  <strong>https://kosred.com/a/eiktar.txt -> V1</strong><br>
-  <strong>https://kosred.com/a/npqjmg.txt -> V2</strong>
+  <a href="https://kosred.com/a/eiktar.txt"><strong>InsomniaGPT V1</strong><br></a>
+  <a href="https://kosred.com/a/npqjmg.txt"><strong>InsomniaGPT V2</strong><br></a>
+  <a href="https://kosred.com/a/dwsubs.txt"><strong>InsomniaGPT V3</strong></a>
 </details>
